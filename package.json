@@ -10,13 +10,16 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",  
+    "npmtool"],
+  "author": "Glòria Monzó",
   "license": "ISC",
+  "repository": "https://github.com/Aredhel269/directory_manager",
+  "homepage": "https://github.com/Aredhel269/directory_manager#readme",
   "dependencies": {
     "commander": "^11.1.0",
     "figlet": "^1.7.0",
-    "filet": "^0.1.1"
   },
   "devDependencies": {
     "@types/node": "^20.10.4",
