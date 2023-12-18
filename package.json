@@ -1,5 +1,6 @@
 {
-  "name": "directory_manager",
+  "name": "@aredhel269/directory_manager",
+
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
